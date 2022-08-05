@@ -7,7 +7,7 @@ FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 44100
 DURACION = 2
-archivo = 'D:\\Datos\Documentos\\1. Programas y Proyectos\\Python 3.7\\DSP_1\\Carro\\audios\\adelante10.wav'
+archivo = 'D:\\Datos\Documentos\\1. Programas y Proyectos\\Python 3.7\\DSP_1\\Carro\\audios\\adelante6.wav'
 
 
 #Iniciamos PyAudio
